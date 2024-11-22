@@ -145,3 +145,4 @@ function EditTagsModal({ availableTags, handlerClose, show, onDeleteTag, onUpdat
         </Modal>
     ) 
 }
+
